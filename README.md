@@ -1,9 +1,9 @@
 # Interactive Table
 
-## OBJETIVO
+### OBJETIVO
 O objetivo principal era a criação de uma tabela interativa de tema livre com ordenação, paginação e controle da quantidade de exibição de linhas em Angular
 
-## ESPECIFICAÇÕES
+### ESPECIFICAÇÕES
 - projeto totalmente focado no front-end;
 - era necessário a uilização de Angular em toda aplicação;
 - com no mínimo 4 colunas, a inserção de dados foi feita em arquivos TypeScript;
@@ -11,7 +11,7 @@ O objetivo principal era a criação de uma tabela interativa de tema livre com 
 - a temática adotada foi a relação de jogadores de futebol com alguns dados referentes aos mesmos;
 - projeto responsivo;
 
-## FERRAMENTAS E TECNOLOGIAS
+### FERRAMENTAS E TECNOLOGIAS
 
 * <img align="center" alt="Angular" height="30" width="40" href="#" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg"> [Angular](https://angular.io/)
 * <img align="center" alt="TypeScript" height="30" width="40" href="#" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg"> [Typescript](https://www.typescriptlang.org/) 
