@@ -17,6 +17,8 @@ O objetivo principal era a criação de uma tabela interativa de tema livre com 
 * <img align="center" alt="TypeScript" height="30" width="40" href="#" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg"> [Typescript](https://www.typescriptlang.org/) 
 <br><br>
 
+
+
 ## 🚀 Rodando o projeto
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
