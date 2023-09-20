@@ -13,16 +13,8 @@ O objetivo principal era a criação de uma tabela interativa de tema livre com 
 
 ## Ferramentas e tecnologias
 
-* [Angular](https://angular.io/) <img align="center" alt="Angular" height="30" width="40" href="#" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg">
-* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) <img align="center" alt="HTML" height="30" width="40" href="#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) <img align="center" alt="CSS" height="30" width="40" href="#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-* [Typescript](https://www.typescriptlang.org/) <img align="center" alt="TypeScript" height="30" width="40" href="#" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
-
-<div style="display: inline_block; padding: 0 auto" align="center"><br>
-  <img align="center" alt="Angular" height="30" width="40" href="#" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" href="#" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" href="#" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
-</div>
+* <img align="center" alt="Angular" height="30" width="40" href="#" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg"> [Angular](https://angular.io/)
+* <img align="center" alt="TypeScript" height="30" width="40" href="#" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg"> [Typescript](https://www.typescriptlang.org/) 
 <br>
 
 ## 🚀 Rodando o projeto
