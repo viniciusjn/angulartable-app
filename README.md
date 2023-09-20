@@ -60,3 +60,6 @@ ng serve
 ```
 
 Acesse o link disponibilizado no terminal e veja o projeto rodando!
+
+## Licence
+Esse projeto possui MIT License Copyright (c) 2023 ᴠɪɴɪ. 
