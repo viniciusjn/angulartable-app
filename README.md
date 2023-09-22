@@ -8,7 +8,7 @@ O objetivo principal era a criação de uma tabela interativa de tema livre com 
 - projeto responsivo;
 - era necessário a uilização de Angular em toda aplicação;
 - com no mínimo 4 colunas, a inserção de dados foi feita em arquivos TypeScript;
-- foram feitas ordenação, paginação e controle da quantidade de exibição de linhas na tabela;
+- foram feitas ordenação, paginação e controle da quantidade de exibição de linhas na tabela também em TypeScript;
 - a temática adotada foi a relação de jogadores de futebol com alguns dados referentes aos mesmos;
 
 ### Ferramentas e Tecnologias
