@@ -44,7 +44,7 @@ export class AppComponent implements AfterViewInit {
       { name: 'Thiago Maia', number: 8, position: 'VOL', price: 6 },
       { name: 'Gerson', number: 20, position: 'MEI', price: 15 },
       { name: 'Victor Hugo', number: 29, position: 'MEI', price: 3 },
-      { name: 'Éverton Ribeiro', number: 7, position: 'MEI', price: 3 },
+      { name: 'Everton Ribeiro', number: 7, position: 'MEI', price: 3 },
       { name: 'Arrascaeta', number: 14, position: 'MEI', price: 17 },
       { name: 'Everton Cebolinha', number: 11, position: 'ATA', price: 9 },
       { name: 'Luiz Araújo', number: 22, position: 'ATA', price: 6 },
