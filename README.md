@@ -36,13 +36,13 @@ npm --version
 Com o Node instalado, você deverá primeiramente clonar o repositório em uma pasta de sua preferência:
 
 ```
-git clone https://github.com/viniciusjn/barbeariacdr-app.git
+https://github.com/viniciusjn/interactivetable-app.git
 ```
 
 Logo depois deverá entrar no repositório:
 
 ```
-cd barbeariacdr-app
+interactivetable-app
 ```
 
 Instalar todas as depedências:
