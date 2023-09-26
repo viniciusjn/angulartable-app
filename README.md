@@ -36,13 +36,13 @@ npm --version
 Com o Node instalado, você deverá primeiramente clonar o repositório em uma pasta de sua preferência:
 
 ```
-https://github.com/viniciusjn/interactivetable-app.git
+git clone https://github.com/viniciusjn/interactivetable-app.git
 ```
 
 Logo depois deverá entrar no repositório:
 
 ```
-interactivetable-app
+cd interactivetable-app
 ```
 
 Instalar todas as depedências:
